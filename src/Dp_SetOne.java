@@ -1,5 +1,5 @@
 import java.util.*;
-public class SetOne {
+public class Dp_SetOne {
     public void run(){
         Scanner sc=new Scanner(System.in);
         int num=sc.nextInt();
@@ -23,7 +23,7 @@ public class SetOne {
     }
 
     public static void main(String[] args){
-        SetOne setOne=new SetOne();
+        Dp_SetOne setOne=new Dp_SetOne();
         setOne.run();
     }
 }
