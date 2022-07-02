@@ -1,5 +1,5 @@
 import java.util.*;
-public class Dp_큰부분수열 {
+public class Dp_긴증가부분수열 {
     public void run(){
         Scanner sc=new Scanner(System.in);
 
@@ -29,7 +29,7 @@ public class Dp_큰부분수열 {
         sc.close();
     }
     public static void main(String[] args){
-        Dp_큰부분수열 dp_수열=new Dp_큰부분수열();
+        Dp_긴증가부분수열 dp_수열=new Dp_긴증가부분수열();
         dp_수열.run();
     }
 }
