@@ -1,3 +1,5 @@
+package Dp;
+
 import java.util.*;
 public class Dp_이친수 {
     public void run(){

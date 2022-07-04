@@ -1,3 +1,5 @@
+package Dp;
+
 import java.util.*;
 public class Dp_정수삼각형 {
     public void run(){

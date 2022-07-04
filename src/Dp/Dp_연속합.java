@@ -1,3 +1,5 @@
+package Dp;
+
 import java.util.*;
 public class Dp_연속합 {
     public void run(){
