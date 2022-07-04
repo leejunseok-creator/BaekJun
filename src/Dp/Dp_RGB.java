@@ -1,3 +1,5 @@
+package Dp;
+
 import java.util.*;
 public class Dp_RGB {
     public void run(){
