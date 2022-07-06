@@ -5,9 +5,9 @@ public class Dp_퇴사 {
     public void run(){
         Scanner sc=new Scanner(System.in);
         int day=sc.nextInt();
-        int[] workday=new int[day+2];
-        int[] salary=new int[1000];
-        int[] dp=new int[1000]; //최대 급여를 저장하는 배열
+        int[] workday=new int[day+15];
+        int[] salary=new int[day+15];
+        int[] dp=new int[day+6]; //최대 급여를 저장하는 배열
         int maxnum=0;
 
         for(int i=0;i<day;i++){
