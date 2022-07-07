@@ -6,6 +6,7 @@ public class DFS_바이러스 {
     int couple;
     int[][] map;
     int[] visit;
+
     public void run(){
         Scanner sc=new Scanner(System.in);
         computer=sc.nextInt();
