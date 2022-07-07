@@ -1,3 +1,5 @@
+package 수학;
+
 import java.util.*;
 public class AlarmClock {
     public void run(){

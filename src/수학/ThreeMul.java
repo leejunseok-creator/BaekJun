@@ -1,3 +1,5 @@
+package 수학;
+
 import java.util.*;
 class ThreeMul {
     public void run(){

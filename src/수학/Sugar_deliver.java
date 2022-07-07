@@ -1,3 +1,5 @@
+package 수학;
+
 import java.util.*;
 public class Sugar_deliver {
     public void run(){
